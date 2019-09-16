@@ -2,8 +2,8 @@ site:
   about:
     siteName: 'Leeds KUG'
     subtitle: 'Leeds Kotlin User Group'
-    siteDescription: "Kotlin, it`s like a less shit Java."
-    avatar: 'assets/media/placeholder-logo.png'
+    siteDescription: "Leeds based Kotlin User Group!"
+    avatar: 'assets/media/LeedsKotlinUserGroup.png'
 
 theme:
   social:
