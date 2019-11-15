@@ -16,6 +16,8 @@ LS1 4AP
 
 See our [events page](https://ti.to/leeds-kotlin-user-group/test-event) for more details!!!
 
+<tito-widget event="leeds-kotlin-user-group/test-event"></tito-widget>
+
 ---
 
 {{ "New Orchid site"|replace("Orchid", site.about.siteName) }}
