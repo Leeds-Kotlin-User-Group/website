@@ -1,18 +1,18 @@
 site:
   about:
-    siteName: 'Leeds KUG'
-    subtitle: 'Leeds Kotlin User Group'
+    siteName: "Leeds KUG"
+    subtitle: "Leeds Kotlin User Group"
     siteDescription: "Leeds based Kotlin User Group!"
-    avatar: 'assets/media/LeedsKotlinUserGroup.png'
+    avatar: "assets/media/LeedsKotlinUserGroup.png"
 
 theme:
   social:
-    twitter: 'LeedsKotlin'
-    github: 'Leeds-Kotlin-User-Group'
+    twitter: "LeedsKotlin"
+    github: "Leeds-Kotlin-User-Group"
   menu:
-    - type: 'page'
-      title: 'Home'
-      url: '/'
+    - type: "page"
+      title: "Home"
+      url: "/"
     - type: "pages"
       atRoot: true
   sidebar:
@@ -21,14 +21,14 @@ theme:
       category: personal
       noWrapper: true
       template:
-        - 'includes/postPreview_list'
+        - "includes/postPreview_list"
   extraCss:
-    - 'assets/css/extraCss.scss'
-    - 'assets/css/pygments.scss'
+    - "assets/css/extraCss.scss"
+    - "assets/css/pygments.scss"
   extraJs:
-    - 'assets/js/extraJs.js'
+    - "assets/js/extraJs.js"
 
 services:
   generators:
     externalIndices:
-      - 'https://orchid.netlify.com/meta/all.index.json'
+      - "https://orchid.netlify.com/meta/all.index.json"
