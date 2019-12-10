@@ -2,6 +2,8 @@ permalink: ":category/:year/:monthName/:slug"
 categories:
   - key: "welcome"
     title: "Welcome to Leed Kotlin User Group"
+  - key: "published"
+    title: "Leed Kotlin User Group published pages"
   - key: "category"
     title: "Category 2"
 

@@ -2,7 +2,7 @@ site:
   about:
     siteName: "Leeds KUG"
     subtitle: "Leeds Kotlin User Group"
-    siteDescription: "Leeds based Kotlin User Group!"
+    siteDescription: "A Leeds based Kotlin User Group, run by Kotlin enthusiasts for people interested in learning more about Kotlin and the Kotlin Community! Check out our posts for upcoming events, or check us out on Twitter where we'll also post information about upcoming events."
     avatar: "assets/media/LeedsKotlinUserGroup.png"
 
 theme:
