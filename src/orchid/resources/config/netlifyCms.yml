@@ -1,5 +1,5 @@
 config:
   backend:
     name: github
-    repo: 'user/repo'
-    branch: master
+    repo: 'Leeds-Kotlin-User-Group/website'
+    branch: initial-site
