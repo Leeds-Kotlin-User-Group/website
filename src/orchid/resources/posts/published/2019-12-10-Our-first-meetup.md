@@ -1,24 +1,24 @@
 ---
 title: Our First Meetup!
-featuredImage: assets/media/kotlinconf/kotlin-conf-party.jpeg
+featuredImage: assets/media/first-meetup-post.png
 author: "LKUG"
 tags:
+  - kotlin
   - leeds
   - community
-  - meetup
-  - kotlin
+  - meet-up
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lobortis, risus vitae maximus auctor, dolor neque iaculis lorem, sit amet pellentesque tellus augue sed nulla.
+Welcome back to Leeds Kotlin User Group! A Leeds based Kotlin User Group, run by Kotlin enthusiasts for people interested in learning more about Kotlin and the Kotlin Community. 
      
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lobortis, risus vitae maximus auctor, dolor neque iaculis lorem, sit amet pellentesque tellus augue sed nulla. Nam molestie aliquet mi vel vestibulum. Donec in ligula tristique, venenatis ex ac, venenatis justo. In rhoncus iaculis mi, a laoreet nulla imperdiet et. Donec eleifend laoreet orci, id malesuada urna fermentum eu. Nam vulputate, nisl non eleifend semper, lectus augue lobortis sapien, eu volutpat felis nibh at mi. Duis ac hendrerit mauris. Sed congue est risus, fermentum aliquet neque cursus vitae. Nulla fringilla quam at turpis facilisis elementum. Nam mattis fermentum metus, ac pulvinar felis dapibus nec. Etiam ut arcu luctus, finibus orci non, tempus mi. Vestibulum vitae laoreet risus. Nunc in scelerisque eros, non volutpat ligula. 
+We've been away for awhile but we're looking forward to hosting some more Kotlin meet-ups in early 2020 and beyond! Our first meet-up of the year will involve a few lightening talks about KotlinConf 2019, which was attended by some of our organisers along with 1700 others. The talks will highlight the current state of the Kotlin Language, some of the great work being done in the Kotlin Community and finally other ways that Kotlin can be used. Following the KotlinConf session we'll run an open panel to discuss some of the content that members of the Kotlin Community in Leeds want to see in future meet-ups! 
 
 <img src="/assets/media/kotlinconf/kotlin-conf-hall1.jpeg"
      alt="Kotlin Conf Opening"
      style="max-width:100%;" />
 
-Aliquam dapibus nisl ut urna dignissim maximus. Aliquam tempor, ante a facilisis porta, massa lectus eleifend enim, in malesuada orci ipsum nec arcu. Aenean tellus eros, elementum quis ante eget, rhoncus semper metus. Etiam lacinia, leo at dignissim ultrices, elit quam feugiat neque, vitae facilisis dolor tortor in magna.
+If you'd like to know more about us sooner, or even get in touch! You can reach us on Twitter, we're available at [@LeedsKotlin](https://twitter.com/LeedsKotlin)
 
-<img src="/assets/media/kotlinconf/kotlin-conf-opening.jpeg"
-     alt="Kotlin Conf Opening"
+<img src="/assets/media/placeholder-logo.png"
+     alt="LKUG"  
      style="max-width:100%;" />
