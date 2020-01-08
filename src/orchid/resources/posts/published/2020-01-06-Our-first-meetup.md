@@ -1,6 +1,6 @@
 ---
 title: Our First Meetup!
-featuredImage: assets/media/placeholder-logo-first-event.png
+featuredImage: assets/media/posts/placeholder-logo-first-event.png
 author: "LKUG"
 tags:
   - kotlin
