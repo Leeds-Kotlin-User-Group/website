@@ -9,7 +9,7 @@ tags:
   - meet-up
 ---
 
-Welcome to Leeds Kotlin User Group! We're, run by Kotlin enthusiasts for people interested in learning more about Kotlin and the Kotlin Community. 
+Welcome to Leeds Kotlin User Group! We're run by Kotlin enthusiasts for people interested in learning more about Kotlin, and the Kotlin Community. 
 
 We'll be hosting out first event on 18th February 2020, at Sky Betting and Gaming [Click here to sign up!](https://ti.to/leeds-kotlin-user-group/leeds-kotlin-user-group-1st-meetup)
 
@@ -23,12 +23,13 @@ Topics include:
 
 After the talks we'll run an open panel to discuss some of the content that members of the Kotlin Community in Leeds want to see in future meet-ups! 
 
-There will be some free food drinks too!
+There will be some free food & drinks too!
 
 <a href="https://ti.to/leeds-kotlin-user-group/leeds-kotlin-user-group-1st-meetup">Click here to sign up!</a>
+
+If you'd like to know more about us sooner, or even get in touch! You can reach us on Twitter, we're available at [@LeedsKotlin](https://twitter.com/LeedsKotlin)
 
 <img src="/assets/media/kotlinconf/kotlin-conf-hall1.jpeg"
      alt="Kotlin Conf Opening"
      style="max-width:100%;" />
 
-If you'd like to know more about us sooner, or even get in touch! You can reach us on Twitter, we're available at [@LeedsKotlin](https://twitter.com/LeedsKotlin)
