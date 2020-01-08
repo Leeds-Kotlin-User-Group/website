@@ -1,6 +1,6 @@
 ---
 title: Our First Meetup!
-featuredImage: assets/media/2020-01-06-logo.png
+featuredImage: assets/media/placeholder-logo-first-event.png
 author: "LKUG"
 tags:
   - kotlin
@@ -18,7 +18,3 @@ We've been away for awhile but we're looking forward to hosting some more Kotlin
      style="max-width:100%;" />
 
 If you'd like to know more about us sooner, or even get in touch! You can reach us on Twitter, we're available at [@LeedsKotlin](https://twitter.com/LeedsKotlin)
-
-<img src="/assets/media/placeholder-logo-first-event.png"
-     alt="LKUG"  
-     style="max-width:100%;" />
