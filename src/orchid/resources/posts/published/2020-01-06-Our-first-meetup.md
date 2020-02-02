@@ -15,13 +15,14 @@ We'll be hosting out first event on 18th February 2020, at Sky Betting and Gamin
 
 Our first meet-up of the year will involve a few lightning talks providing a recap of KotlinConf 2019, which was attended by some of our organisers along with 1700 other Kotlin developers. The talks will highlight the current state of the Kotlin Language, some of the great work being done in the Kotlin Community and finally other ways that Kotlin can be used.
 
-Topics include:
+*Agenda:*
 
-- State of the Kotlin Ecosystem
-- Kotlin multiplatform (... write one app, deploy to ios and android)
-- Error handling and The power of types
-- Kotlin Native (...with a Raspberry Pi)
-
+* State of the Kotlin Ecosystem and What's new - Adam Kozlowski
+* Kotlin Multiplatform - Robertas Setkus
+* Kotlin Serialisation: A viable Jackson alternative? - Alex Williams
+* Playing with WebFlux and Coroutines - Chantry Cargill
+* Kotlin Native - James Millner
+ 
 After the talks we'll run an open panel to discuss some of the content that members of the Kotlin Community in Leeds want to see in future meet-ups!
 
 There will be some free food & drinks too!
