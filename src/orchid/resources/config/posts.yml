@@ -4,10 +4,10 @@ categories:
     title: "Welcome to Leed Kotlin User Group"
   - key: "published"
     title: "Leed Kotlin User Group published pages"
-  - key: "category"
-    title: "Category 2"
+  # - key: "category"
+  #   title: "Category 2"
 
-authors:
-  - name: "LKUG"
-    avatar: "assets/media/avatar.jpg"
-    email: "email@domain.tld"
+# authors:
+#   - name: "LKUG"
+#     avatar: "assets/media/avatar.jpg"
+#     email: "email@domain.tld"
