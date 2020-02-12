@@ -16,5 +16,5 @@ If you've already joined,
 
 ### How to join the Kotlin Lang slack...
 
-[Click here to get invite](http://slack.kotlinlang.org/?_ga=2.166771582.1379006948.1581239303-1685779670.1523969764).
+[Click here to get an invite](http://slack.kotlinlang.org/?_ga=2.166771582.1379006948.1581239303-1685779670.1523969764).
 
