@@ -34,7 +34,7 @@ If you'd like to know more about us sooner, or even get in touch! You can reach 
 Massive thanks to our partners The Stars Group and Fruition IT
 
 <div style="margin-bottom: 20px; width: 100%; text-align: center;">
-<a href="http://www.starsgroup.com/careers/" target="_blank">
+<a href="https://pokerstarscareers.com/" target="_blank">
   <img src="/assets/media/stars-logo.png"
       alt="The Stars Group"
   />

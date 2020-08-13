@@ -14,7 +14,7 @@ tags:
       style="display: block; margin: 0 auto;"
   />
 </a>
-<p><a href="http://www.starsgroup.com/careers/" target="_blank">The Stars Group</a> is a global leader in the online and mobile gaming and interactive entertainment industries, entertaining millions of customers across its online real- and play-money poker, gaming and betting product offerings. The Stars Group are most well known for PokerStars and their recent acquisition of Sky Betting & Gaming.</p>
+<p><a href="https://pokerstarscareers.com/" target="_blank">The Stars Group</a> is a global leader in the online and mobile gaming and interactive entertainment industries, entertaining millions of customers across its online real- and play-money poker, gaming and betting product offerings. The Stars Group are most well known for PokerStars and their recent acquisition of Sky Betting & Gaming.</p>
 <p>As one of the largest tech-employers in Leeds they're a progressive and exciting company on the forefront of the latest technologies, such as Kotlin, Kafka, and Kubernetes.</p>
 <p>It's not all about the tech - the culture for Stars Group is front and centre. With a one-team mentality they enable teams to own all their services throughout the entire software development lifecycle. If you'd like to know more about The Stars Group and what they do, check out the link above or speak to some of our organisers.</p>
 
